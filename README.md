@@ -1,9 +1,11 @@
 ## spfx-pnpjs-uifabric-starter
 
 Starter for spfx-webpart using react:
-* office-ui-fabric-react@lts
-* @pnp@latest
+* office-ui-fabric-react (LTS-version)
+* @pnp (latest)
 * tslint-react
+
+----------------------------------------------
 
 ### Building the code
 
