@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.6.0",
+    "libraryName": "spfx-pnpjs-uifabric-starter",
+    "libraryId": "387cc8c7-c890-48b2-b599-8a3b72b71307",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

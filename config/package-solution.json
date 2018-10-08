@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-pnpjs-uifabric-starter-client-side-solution",
+    "id": "387cc8c7-c890-48b2-b599-8a3b72b71307",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-pnpjs-uifabric-starter.sppkg"
+  }
+}
